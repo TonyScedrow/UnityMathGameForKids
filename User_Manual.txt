@@ -1,0 +1,30 @@
+Unity Versija 2017.3.1f1 Personal
+Visual Studio 2017 Community Edition
+
+Game_Launcher yra sukompiliuoto zaidimo aplankas.
+Zaidimui paleisti spaudziama ant Launcher.exe
+Graphics skiltyje Screen Resolution nustatomas 1280x720, BE varneles ant Windowed.
+Graphics Quality - Fantastic.
+
+Input:
+Horizontal(+) - S
+Horizontal(-) - W
+Vertical(+) - D
+Vertical(-) - A
+
+arba
+
+Horizontal(+) - D
+Horizontal(-) - A
+Vertical(+) - W
+Vertical(-) - S
+
+(kaip patogiau).
+
+Zaidimui paleisti spaudziamas "Play!".
+
+Projekto_Failai yra zaidimo projekto aplankas, kuriame yra naudojami visi projekto failai, skriptai ir plug-inai.
+Kad atidaryti projekta Unity programoje spaudziama Open ir pasirenkamas Projekto_Failai aplankas ir spaudziama Select Folder.
+
+Aplankale Maketai sudeti su Photoshop CS6 sukurti ir zaidime panaudoti grafikos elementai, vaizdai ir ju projektiniai failai (jie jau yra integruoti i zaidimo projekta, siame aplanke pateikiami atskirai).
+
